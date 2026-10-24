@@ -115,9 +115,10 @@ To remove the module correctly and safely, use the module's built-in **Action** 
 
 ## 📑 Credits
 
-- Fork and modifications by **DevHiOliveira** ([@devhioliveira](https://t.me/devhioliveira)).
-- Module originally made by **Denver** (@t_skahh).
-- Original [A56-to-Flagship](https://github.com/ducthoe/A56-To-Flagship) by **@ducthoe**.
+- **Project maintainer, AOD fixes, more Galaxy AI features:** [DevHiOliveira](https://t.me/devhi0)
+- **Live blur fix, testing, analysis and support:** [Denver](https://t.me/t_skahh)
+- **Support, fixes and improvements:** [Taylor_bleed](https://t.me/Taylor_bleed)
+- **Improvements and module base:** [Duct](https://github.com/ducthoe/A56-To-Flagship)
 
 ---
 
