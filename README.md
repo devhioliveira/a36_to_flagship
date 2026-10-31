@@ -7,6 +7,7 @@
 **Galaxy S25 flagship features, ported to the Galaxy A36.**
 
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-26A5E4?logo=telegram&logoColor=white)](https://t.me/devhi00)
+[![Telegram Support](https://img.shields.io/badge/Telegram-Support_Group-26A5E4?logo=telegram&logoColor=white)](https://t.me/devhisupport)
 [![Telegram DM](https://img.shields.io/badge/Telegram-@devhi0-26A5E4?logo=telegram&logoColor=white)](https://t.me/devhi0)
 ![Root](https://img.shields.io/badge/Root-KernelSU-orange)
 ![Device](https://img.shields.io/badge/Device-Galaxy%20A36%205G-1428A0?logo=samsung&logoColor=white)
@@ -93,7 +94,7 @@ Updating from **V3** onwards:
 2. Perform a soft reboot.
 3. Install the new version from the [Releases](https://github.com/devhioliveira/a36_to_flagship/releases) page.
 
-## 🗑️ Uninstallation
+## 🧹 Uninstallation
 
 To remove the module correctly and safely, use the module's built-in **Action** button instead of just disabling or deleting it:
 
@@ -107,8 +108,9 @@ To remove the module correctly and safely, use the module's built-in **Action** 
 
 ## 💬 Support & Community
 
-- 📢 **Telegram channel:** [t.me/devhi00](https://t.me/devhi00) — updates, releases and news.
-- 🐛 **Found a bug or have a suggestion?** Send me a DM on Telegram: [@devhi0](https://t.me/devhi0).
+- 📢 **Updates channel:** [t.me/devhi00](https://t.me/devhi00) — updates, releases and news.
+- 💬 **Support group:** [t.me/devhisupport](https://t.me/devhisupport) — ask for help, report bugs and chat with other users.
+- 🐛 **Found a bug or have a suggestion?** Post it in the support group or send me a DM on Telegram: [@devhi0](https://t.me/devhi0).
 
 > [!TIP]
 > When reporting a bug, please include your **firmware version**, your **KernelSU version** and the **install log** so I can help you faster.
